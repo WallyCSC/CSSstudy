@@ -421,5 +421,7 @@ footer .line-footer p a {
         text-align: center;
     }
     
-    
+    .btn-social button {
+        color: #000;
+    }
 }
